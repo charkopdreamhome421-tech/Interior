@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
         'brand-primary': '#c5a572', // A soft, elegant gold
         'brand-dark': '#2d2d2d',    // A dark gray for text
+        'brand-secondary': '#649B8A', // Muted green/teal from Livspace
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
